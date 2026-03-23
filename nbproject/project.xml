@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>calcularPromedioTarea14</name>
+=======
+            <name>TotalDelaCompra</name>
+>>>>>>> aa2d48201d019f91914e43f84e5a345ec4ad2f05
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
